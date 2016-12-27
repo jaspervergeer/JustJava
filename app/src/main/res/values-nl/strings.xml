@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Just Java</string>
+    <string name="app_name">Gewoon Java</string>
     <string name="chocolate">Chocolade</string>
     <string name="email_subject">De order van <xliff:g id="customer_name" example="John Johnson">%s</xliff:g></string>
     <string name="has_chocolate">Heeft chocolade: <xliff:g id="chocolate_or_not" example="true">%s</xliff:g></string>
